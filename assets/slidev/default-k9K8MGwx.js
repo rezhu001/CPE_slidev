@@ -1,0 +1,1 @@
+import{o,b as t,f as s}from"../modules/vue-C4LBvMXL.js";import{_ as l}from"../index-DoGJaGWG.js";const c={},a={class:"slidev-layout default"};function d(e,n){return o(),t("div",a,[s(e.$slots,"default")])}const i=l(c,[["render",d],["__file","G:/总结/2024/Slidev_cpe/slidev/node_modules/@slidev/client/layouts/default.vue"]]);export{i as I};
